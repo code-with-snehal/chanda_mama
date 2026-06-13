@@ -2,3 +2,5 @@ streamlit
 pandas
 qrcode
 pillow
+plotly
+streamlit-gsheets
